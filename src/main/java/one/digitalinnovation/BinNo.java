@@ -35,7 +35,7 @@ public class BinNo<T extends Comparable<T>>{
         return noDir;
     }
 
-    public void noDir(BinNo<T> noDir) {
+    public void setNoDir(BinNo<T> noDir) {
         this.noDir = noDir;
     }
 
