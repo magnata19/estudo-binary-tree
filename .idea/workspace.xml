@@ -4,15 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba3cd0e3-da39-4e34-ab3c-6970567dbb87" name="Changes" comment="" />
+    <list default="true" id="ba3cd0e3-da39-4e34-ab3c-6970567dbb87" name="Changes" comment="criando metodo de inserir na classe ArvoreBinaria">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/ArvoreBinaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/ArvoreBinaria.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ZbAybIrplI293MCaO9rV15HOtD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +38,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/david/OneDrive/Projetos/estrutura-de-dados/binary-tree/binary-tree",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,6 +52,37 @@
       <option name="presentableId" value="Default" />
       <updated>1702594430880</updated>
     </task>
+    <task id="LOCAL-00001" summary="criando classe raiz">
+      <option name="closed" value="true" />
+      <created>1702594720797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702594720797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="estruturando classe BinNo">
+      <option name="closed" value="true" />
+      <created>1702596046195</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702596046195</updated>
+    </task>
+    <task id="LOCAL-00003" summary="criando metodo de inserir na classe ArvoreBinaria">
+      <option name="closed" value="true" />
+      <created>1702604643479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702604643479</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="criando classe raiz" />
+    <MESSAGE value="estruturando classe BinNo" />
+    <MESSAGE value="criando metodo de inserir na classe ArvoreBinaria" />
+    <option name="LAST_COMMIT_MESSAGE" value="criando metodo de inserir na classe ArvoreBinaria" />
   </component>
 </project>
